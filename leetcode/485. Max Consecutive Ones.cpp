@@ -20,24 +20,20 @@ Constraints:
 nums[i] is either 0 or 1.
 */
 
-class Solution {
-public:
-    int findMaxConsecutiveOnes(vector<int>& nums) {
-        int count=0,maxi=0;
-        for(int i=0;i<nums.size();i++)
-        {
-         
-                if(nums[i]==1)
-                {
-                    count++;
-                    maxi=max(maxi,count);
-                }
-                else
-                {
-                    count=0;
-                }
-            
+int findMaxConsecutiveOnes(int* nums, int numsSize) {
+    int count=0;
+    int max1=0;
+    for(int i=0;i<numsSize;i++){
+        if(nums[i]==1)
+        count++;
+        else{
+           if(max1<count)
+           max1=count;
+           count=0;
         }
-        return maxi;
     }
-};
+    if(max1<count)
+           max1=count;
+    return max1;
+    
+}
