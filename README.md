@@ -24,6 +24,7 @@ Leetcode problems in C,C++,java,etc.
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Ashwikha/Leetcode/tree/master/0206-reverse-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ashwikha/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
@@ -33,4 +34,8 @@ Leetcode problems in C,C++,java,etc.
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ashwikha/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Ashwikha/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
