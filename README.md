@@ -24,11 +24,13 @@ Leetcode problems in C,C++,java,etc.
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Ashwikha/Leetcode/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/Ashwikha/Leetcode/tree/master/0206-reverse-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ashwikha/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Ashwikha/Leetcode/tree/master/0061-rotate-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ashwikha/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
