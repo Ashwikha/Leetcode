@@ -20,6 +20,7 @@ Leetcode problems in C,C++,java,etc.
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/Ashwikha/Leetcode/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Ashwikha/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Linked List
 |  |
