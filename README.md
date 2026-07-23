@@ -8,6 +8,7 @@ Leetcode problems in C,C++,java,etc.
 | ------- |
 | [0035-search-insert-position](https://github.com/Ashwikha/Leetcode/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashwikha/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ashwikha/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0137-single-number-ii](https://github.com/Ashwikha/Leetcode/tree/master/0137-single-number-ii) |
 | [0682-baseball-game](https://github.com/Ashwikha/Leetcode/tree/master/0682-baseball-game) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Ashwikha/Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -74,4 +75,9 @@ Leetcode problems in C,C++,java,etc.
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashwikha/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ashwikha/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ashwikha/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
