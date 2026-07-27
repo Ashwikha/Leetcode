@@ -71,6 +71,7 @@ Leetcode problems in C,C++,java,etc.
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ashwikha/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0424-longest-repeating-character-replacement](https://github.com/Ashwikha/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Simulation
 |  |
 | ------- |
@@ -108,4 +109,12 @@ Leetcode problems in C,C++,java,etc.
 |  |
 | ------- |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Ashwikha/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+## String
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Ashwikha/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Ashwikha/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
