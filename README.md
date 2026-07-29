@@ -60,6 +60,7 @@ Leetcode problems in C,C++,java,etc.
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Ashwikha/Leetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Ashwikha/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Ashwikha/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Ashwikha/Leetcode/tree/master/0682-baseball-game) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ashwikha/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -129,4 +130,9 @@ Leetcode problems in C,C++,java,etc.
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Ashwikha/Leetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Ashwikha/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Ashwikha/Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
