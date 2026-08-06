@@ -105,6 +105,7 @@ Leetcode problems in C,C++,java,etc.
 | [0189-rotate-array](https://github.com/Ashwikha/Leetcode/tree/master/0189-rotate-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ashwikha/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashwikha/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Ashwikha/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ashwikha/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
@@ -160,4 +161,8 @@ Leetcode problems in C,C++,java,etc.
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/Ashwikha/Leetcode/tree/master/2974-minimum-number-game) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Ashwikha/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
