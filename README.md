@@ -7,6 +7,7 @@ Leetcode problems in C,C++,java,etc.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Ashwikha/Leetcode/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/Ashwikha/Leetcode/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashwikha/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ashwikha/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0137-single-number-ii](https://github.com/Ashwikha/Leetcode/tree/master/0137-single-number-ii) |
@@ -86,6 +87,7 @@ Leetcode problems in C,C++,java,etc.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Ashwikha/Leetcode/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/Ashwikha/Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Ashwikha/Leetcode/tree/master/0844-backspace-string-compare) |
 | [2974-minimum-number-game](https://github.com/Ashwikha/Leetcode/tree/master/2974-minimum-number-game) |
@@ -130,6 +132,7 @@ Leetcode problems in C,C++,java,etc.
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Ashwikha/Leetcode/tree/master/0054-spiral-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Ashwikha/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ashwikha/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## String
