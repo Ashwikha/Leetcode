@@ -15,6 +15,7 @@ Leetcode problems in C,C++,java,etc.
 | [0682-baseball-game](https://github.com/Ashwikha/Leetcode/tree/master/0682-baseball-game) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Ashwikha/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashwikha/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Ashwikha/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ashwikha/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/Ashwikha/Leetcode/tree/master/2974-minimum-number-game) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Ashwikha/Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -27,6 +28,7 @@ Leetcode problems in C,C++,java,etc.
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Ashwikha/Leetcode/tree/master/0137-single-number-ii) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Ashwikha/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Database
 |  |
 | ------- |
@@ -86,6 +88,7 @@ Leetcode problems in C,C++,java,etc.
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ashwikha/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ashwikha/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Ashwikha/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ashwikha/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
@@ -172,4 +175,8 @@ Leetcode problems in C,C++,java,etc.
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ashwikha/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Counting
+|  |
+| ------- |
+| [2206-divide-array-into-equal-pairs](https://github.com/Ashwikha/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
