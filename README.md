@@ -13,6 +13,7 @@ Leetcode problems in C,C++,java,etc.
 | [0137-single-number-ii](https://github.com/Ashwikha/Leetcode/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/Ashwikha/Leetcode/tree/master/0189-rotate-array) |
 | [0682-baseball-game](https://github.com/Ashwikha/Leetcode/tree/master/0682-baseball-game) |
+| [1816-truncate-sentence](https://github.com/Ashwikha/Leetcode/tree/master/1816-truncate-sentence) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Ashwikha/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ashwikha/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashwikha/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -149,6 +150,7 @@ Leetcode problems in C,C++,java,etc.
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Ashwikha/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/Ashwikha/Leetcode/tree/master/0844-backspace-string-compare) |
+| [1816-truncate-sentence](https://github.com/Ashwikha/Leetcode/tree/master/1816-truncate-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ashwikha/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashwikha/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sliding Window
