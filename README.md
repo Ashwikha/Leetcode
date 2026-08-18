@@ -101,6 +101,7 @@ Leetcode problems in C,C++,java,etc.
 | [0844-backspace-string-compare](https://github.com/Ashwikha/Leetcode/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashwikha/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2974-minimum-number-game](https://github.com/Ashwikha/Leetcode/tree/master/2974-minimum-number-game) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Ashwikha/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -154,6 +155,7 @@ Leetcode problems in C,C++,java,etc.
 | [1816-truncate-sentence](https://github.com/Ashwikha/Leetcode/tree/master/1816-truncate-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ashwikha/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashwikha/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Ashwikha/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Sliding Window
 |  |
 | ------- |
