@@ -71,6 +71,7 @@ Leetcode problems in C,C++,java,etc.
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ashwikha/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ashwikha/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashwikha/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Ashwikha/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -111,6 +112,7 @@ Leetcode problems in C,C++,java,etc.
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ashwikha/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Ashwikha/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashwikha/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Math
 |  |
@@ -154,6 +156,7 @@ Leetcode problems in C,C++,java,etc.
 | [0844-backspace-string-compare](https://github.com/Ashwikha/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1816-truncate-sentence](https://github.com/Ashwikha/Leetcode/tree/master/1816-truncate-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ashwikha/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Ashwikha/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashwikha/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Ashwikha/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Sliding Window
