@@ -14,6 +14,7 @@ Leetcode problems in C,C++,java,etc.
 | [0189-rotate-array](https://github.com/Ashwikha/Leetcode/tree/master/0189-rotate-array) |
 | [0396-rotate-function](https://github.com/Ashwikha/Leetcode/tree/master/0396-rotate-function) |
 | [0682-baseball-game](https://github.com/Ashwikha/Leetcode/tree/master/0682-baseball-game) |
+| [1732-find-the-highest-altitude](https://github.com/Ashwikha/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1816-truncate-sentence](https://github.com/Ashwikha/Leetcode/tree/master/1816-truncate-sentence) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Ashwikha/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ashwikha/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -197,4 +198,8 @@ Leetcode problems in C,C++,java,etc.
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Ashwikha/Leetcode/tree/master/0796-rotate-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/Ashwikha/Leetcode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
