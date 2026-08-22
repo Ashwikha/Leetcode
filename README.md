@@ -13,6 +13,7 @@ Leetcode problems in C,C++,java,etc.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ashwikha/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0137-single-number-ii](https://github.com/Ashwikha/Leetcode/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/Ashwikha/Leetcode/tree/master/0189-rotate-array) |
+| [0212-word-search-ii](https://github.com/Ashwikha/Leetcode/tree/master/0212-word-search-ii) |
 | [0396-rotate-function](https://github.com/Ashwikha/Leetcode/tree/master/0396-rotate-function) |
 | [0682-baseball-game](https://github.com/Ashwikha/Leetcode/tree/master/0682-baseball-game) |
 | [1732-find-the-highest-altitude](https://github.com/Ashwikha/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -153,11 +154,13 @@ Leetcode problems in C,C++,java,etc.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ashwikha/Leetcode/tree/master/0054-spiral-matrix) |
+| [0212-word-search-ii](https://github.com/Ashwikha/Leetcode/tree/master/0212-word-search-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Ashwikha/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ashwikha/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/Ashwikha/Leetcode/tree/master/0212-word-search-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ashwikha/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/Ashwikha/Leetcode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Ashwikha/Leetcode/tree/master/0844-backspace-string-compare) |
@@ -213,4 +216,12 @@ Leetcode problems in C,C++,java,etc.
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ashwikha/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Backtracking
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/Ashwikha/Leetcode/tree/master/0212-word-search-ii) |
+## Trie
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/Ashwikha/Leetcode/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
