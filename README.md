@@ -80,6 +80,7 @@ Leetcode problems in C,C++,java,etc.
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashwikha/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Ashwikha/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Ashwikha/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Ashwikha/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -114,6 +115,7 @@ Leetcode problems in C,C++,java,etc.
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashwikha/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2974-minimum-number-game](https://github.com/Ashwikha/Leetcode/tree/master/2974-minimum-number-game) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Ashwikha/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Ashwikha/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -175,6 +177,7 @@ Leetcode problems in C,C++,java,etc.
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Ashwikha/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashwikha/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Ashwikha/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Ashwikha/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
