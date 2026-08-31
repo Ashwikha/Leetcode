@@ -28,6 +28,7 @@ Leetcode problems in C,C++,java,etc.
 | [2965-find-missing-and-repeated-values](https://github.com/Ashwikha/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/Ashwikha/Leetcode/tree/master/2974-minimum-number-game) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Ashwikha/Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ashwikha/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ashwikha/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
@@ -116,6 +117,7 @@ Leetcode problems in C,C++,java,etc.
 | [0844-backspace-string-compare](https://github.com/Ashwikha/Leetcode/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashwikha/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2974-minimum-number-game](https://github.com/Ashwikha/Leetcode/tree/master/2974-minimum-number-game) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ashwikha/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Ashwikha/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Ashwikha/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Dynamic Programming
