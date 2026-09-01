@@ -16,6 +16,7 @@ Leetcode problems in C,C++,java,etc.
 | [0212-word-search-ii](https://github.com/Ashwikha/Leetcode/tree/master/0212-word-search-ii) |
 | [0396-rotate-function](https://github.com/Ashwikha/Leetcode/tree/master/0396-rotate-function) |
 | [0682-baseball-game](https://github.com/Ashwikha/Leetcode/tree/master/0682-baseball-game) |
+| [1089-duplicate-zeros](https://github.com/Ashwikha/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1732-find-the-highest-altitude](https://github.com/Ashwikha/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1816-truncate-sentence](https://github.com/Ashwikha/Leetcode/tree/master/1816-truncate-sentence) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Ashwikha/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -77,6 +78,7 @@ Leetcode problems in C,C++,java,etc.
 | [0189-rotate-array](https://github.com/Ashwikha/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Ashwikha/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/Ashwikha/Leetcode/tree/master/0844-backspace-string-compare) |
+| [1089-duplicate-zeros](https://github.com/Ashwikha/Leetcode/tree/master/1089-duplicate-zeros) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ashwikha/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ashwikha/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ashwikha/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
