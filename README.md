@@ -176,6 +176,7 @@ Leetcode problems in C,C++,java,etc.
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/Ashwikha/Leetcode/tree/master/0212-word-search-ii) |
+| [0306-additive-number](https://github.com/Ashwikha/Leetcode/tree/master/0306-additive-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ashwikha/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/Ashwikha/Leetcode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Ashwikha/Leetcode/tree/master/0844-backspace-string-compare) |
@@ -238,6 +239,7 @@ Leetcode problems in C,C++,java,etc.
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/Ashwikha/Leetcode/tree/master/0212-word-search-ii) |
+| [0306-additive-number](https://github.com/Ashwikha/Leetcode/tree/master/0306-additive-number) |
 ## Trie
 |  |
 | ------- |
