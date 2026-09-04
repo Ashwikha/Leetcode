@@ -32,6 +32,7 @@ Leetcode problems in C,C++,java,etc.
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ashwikha/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ashwikha/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ashwikha/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/Ashwikha/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -229,6 +230,7 @@ Leetcode problems in C,C++,java,etc.
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Ashwikha/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Ashwikha/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [3903-smallest-stable-index-i](https://github.com/Ashwikha/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Monotonic Stack
 |  |
 | ------- |
