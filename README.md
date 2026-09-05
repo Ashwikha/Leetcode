@@ -20,6 +20,7 @@ Leetcode problems in C,C++,java,etc.
 | [1732-find-the-highest-altitude](https://github.com/Ashwikha/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1816-truncate-sentence](https://github.com/Ashwikha/Leetcode/tree/master/1816-truncate-sentence) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Ashwikha/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Ashwikha/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ashwikha/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashwikha/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Ashwikha/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -134,6 +135,7 @@ Leetcode problems in C,C++,java,etc.
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ashwikha/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Ashwikha/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Ashwikha/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashwikha/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Math
