@@ -189,6 +189,7 @@ Leetcode problems in C,C++,java,etc.
 | [1844-replace-all-digits-with-characters](https://github.com/Ashwikha/Leetcode/tree/master/1844-replace-all-digits-with-characters) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ashwikha/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Ashwikha/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/Ashwikha/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashwikha/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Ashwikha/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Ashwikha/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
