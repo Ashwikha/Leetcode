@@ -63,6 +63,7 @@ Leetcode problems in C,C++,java,etc.
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Ashwikha/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Ashwikha/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/Ashwikha/Leetcode/tree/master/1873-calculate-special-bonus) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Ashwikha/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Linked List
 |  |
 | ------- |
