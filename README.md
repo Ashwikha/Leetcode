@@ -18,6 +18,7 @@ Leetcode problems in C,C++,java,etc.
 | [0396-rotate-function](https://github.com/Ashwikha/Leetcode/tree/master/0396-rotate-function) |
 | [0682-baseball-game](https://github.com/Ashwikha/Leetcode/tree/master/0682-baseball-game) |
 | [1089-duplicate-zeros](https://github.com/Ashwikha/Leetcode/tree/master/1089-duplicate-zeros) |
+| [1652-defuse-the-bomb](https://github.com/Ashwikha/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1732-find-the-highest-altitude](https://github.com/Ashwikha/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1816-truncate-sentence](https://github.com/Ashwikha/Leetcode/tree/master/1816-truncate-sentence) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Ashwikha/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -206,6 +207,7 @@ Leetcode problems in C,C++,java,etc.
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Ashwikha/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ashwikha/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1652-defuse-the-bomb](https://github.com/Ashwikha/Leetcode/tree/master/1652-defuse-the-bomb) |
 ## Graph Theory
 |  |
 | ------- |
