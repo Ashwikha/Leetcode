@@ -16,6 +16,7 @@ Leetcode problems in C,C++,java,etc.
 | [0212-word-search-ii](https://github.com/Ashwikha/Leetcode/tree/master/0212-word-search-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Ashwikha/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0396-rotate-function](https://github.com/Ashwikha/Leetcode/tree/master/0396-rotate-function) |
+| [0643-maximum-average-subarray-i](https://github.com/Ashwikha/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Ashwikha/Leetcode/tree/master/0682-baseball-game) |
 | [1089-duplicate-zeros](https://github.com/Ashwikha/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1652-defuse-the-bomb](https://github.com/Ashwikha/Leetcode/tree/master/1652-defuse-the-bomb) |
@@ -207,6 +208,7 @@ Leetcode problems in C,C++,java,etc.
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Ashwikha/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ashwikha/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/Ashwikha/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/Ashwikha/Leetcode/tree/master/1652-defuse-the-bomb) |
 ## Graph Theory
 |  |
