@@ -109,6 +109,7 @@ Leetcode problems in C,C++,java,etc.
 | [0682-baseball-game](https://github.com/Ashwikha/Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Ashwikha/Leetcode/tree/master/0844-backspace-string-compare) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ashwikha/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3174-clear-digits](https://github.com/Ashwikha/Leetcode/tree/master/3174-clear-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -134,6 +135,7 @@ Leetcode problems in C,C++,java,etc.
 | [2974-minimum-number-game](https://github.com/Ashwikha/Leetcode/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ashwikha/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Ashwikha/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3174-clear-digits](https://github.com/Ashwikha/Leetcode/tree/master/3174-clear-digits) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Ashwikha/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -202,6 +204,7 @@ Leetcode problems in C,C++,java,etc.
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Ashwikha/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashwikha/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Ashwikha/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3174-clear-digits](https://github.com/Ashwikha/Leetcode/tree/master/3174-clear-digits) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Ashwikha/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Sliding Window
 |  |
