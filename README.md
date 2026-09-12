@@ -47,6 +47,7 @@ Leetcode problems in C,C++,java,etc.
 | ------- |
 | [0137-single-number-ii](https://github.com/Ashwikha/Leetcode/tree/master/0137-single-number-ii) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Ashwikha/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Ashwikha/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Database
 |  |
 | ------- |
