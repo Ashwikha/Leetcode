@@ -19,6 +19,7 @@ Leetcode problems in C,C++,java,etc.
 | [0643-maximum-average-subarray-i](https://github.com/Ashwikha/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Ashwikha/Leetcode/tree/master/0682-baseball-game) |
 | [1089-duplicate-zeros](https://github.com/Ashwikha/Leetcode/tree/master/1089-duplicate-zeros) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Ashwikha/Leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1652-defuse-the-bomb](https://github.com/Ashwikha/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1732-find-the-highest-altitude](https://github.com/Ashwikha/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1816-truncate-sentence](https://github.com/Ashwikha/Leetcode/tree/master/1816-truncate-sentence) |
