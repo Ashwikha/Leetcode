@@ -35,6 +35,7 @@ Leetcode problems in C,C++,java,etc.
 | [2974-minimum-number-game](https://github.com/Ashwikha/Leetcode/tree/master/2974-minimum-number-game) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Ashwikha/Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ashwikha/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3151-special-array-i](https://github.com/Ashwikha/Leetcode/tree/master/3151-special-array-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ashwikha/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ashwikha/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Ashwikha/Leetcode/tree/master/3903-smallest-stable-index-i) |
