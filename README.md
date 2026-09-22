@@ -48,6 +48,7 @@ Leetcode problems in C,C++,java,etc.
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Ashwikha/Leetcode/tree/master/0137-single-number-ii) |
+| [0338-counting-bits](https://github.com/Ashwikha/Leetcode/tree/master/0338-counting-bits) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Ashwikha/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Ashwikha/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Ashwikha/Leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
@@ -148,6 +149,7 @@ Leetcode problems in C,C++,java,etc.
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashwikha/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ashwikha/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0338-counting-bits](https://github.com/Ashwikha/Leetcode/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/Ashwikha/Leetcode/tree/master/0396-rotate-function) |
 ## Greedy
 |  |
