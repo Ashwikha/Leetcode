@@ -72,6 +72,7 @@ Leetcode problems in C,C++,java,etc.
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Ashwikha/Leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Ashwikha/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1527-patients-with-a-condition](https://github.com/Ashwikha/Leetcode/tree/master/1527-patients-with-a-condition) |
+| [1729-find-followers-count](https://github.com/Ashwikha/Leetcode/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Ashwikha/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/Ashwikha/Leetcode/tree/master/1873-calculate-special-bonus) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Ashwikha/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
