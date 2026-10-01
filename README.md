@@ -20,6 +20,7 @@ Leetcode problems in C,C++,java,etc.
 | [0682-baseball-game](https://github.com/Ashwikha/Leetcode/tree/master/0682-baseball-game) |
 | [1089-duplicate-zeros](https://github.com/Ashwikha/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Ashwikha/Leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Ashwikha/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1652-defuse-the-bomb](https://github.com/Ashwikha/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1732-find-the-highest-altitude](https://github.com/Ashwikha/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1816-truncate-sentence](https://github.com/Ashwikha/Leetcode/tree/master/1816-truncate-sentence) |
@@ -176,6 +177,7 @@ Leetcode problems in C,C++,java,etc.
 ## Sorting
 |  |
 | ------- |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Ashwikha/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Ashwikha/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Ashwikha/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2974-minimum-number-game](https://github.com/Ashwikha/Leetcode/tree/master/2974-minimum-number-game) |
