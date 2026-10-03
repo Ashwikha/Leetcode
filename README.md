@@ -76,6 +76,7 @@ Leetcode problems in C,C++,java,etc.
 | [1527-patients-with-a-condition](https://github.com/Ashwikha/Leetcode/tree/master/1527-patients-with-a-condition) |
 | [1693-daily-leads-and-partners](https://github.com/Ashwikha/Leetcode/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/Ashwikha/Leetcode/tree/master/1729-find-followers-count) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/Ashwikha/Leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Ashwikha/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/Ashwikha/Leetcode/tree/master/1873-calculate-special-bonus) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Ashwikha/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
